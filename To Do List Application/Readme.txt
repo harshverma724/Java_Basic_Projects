@@ -1,6 +1,7 @@
-Todo List Representation:
+-Todo List Representation:
 
 We're using an ArrayList<String> to store the tasks. Each task is represented as a String.
+
 Menu System:
 
 The showMenu method prints out the options available to the user. The user can view tasks, add new tasks, remove tasks, or exit the application.
