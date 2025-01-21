@@ -29,6 +29,4 @@ A simple **Currency Converter** built in Java. This program allows users to conv
 
 You can clone this repository using Git or download the ZIP file.
 
-- To clone the repository:
-  ```bash
-  git clone https://github.com/yourusername/currency-converter.git
+
