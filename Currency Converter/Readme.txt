@@ -1,33 +1,34 @@
-
 # Currency Converter (Java)
 
 ## Overview
 
-This is a simple **Currency Converter** built in Java. The program converts an amount from one currency to another using real-time exchange rates fetched from the **ExchangeRate-API**. It allows users to input the amount, the source currency, and the target currency, and then returns the converted value.
+A simple **Currency Converter** built in Java. This program allows users to convert an amount from one currency to another using real-time exchange rates obtained from **ExchangeRate-API**. The application is a command-line interface (CLI) tool that fetches live exchange rates and performs currency conversion.
 
 ---
 
 ## Features
 
-- Fetches live exchange rates from the ExchangeRate-API.
-- Converts the given amount from one currency to another.
-- Supports any currency pair available through the API.
-- User-friendly command-line interface for entering the required inputs.
+- Converts currency from one type to another using real-time exchange rates.
+- Supports any currency pair available through the ExchangeRate-API.
+- User-friendly CLI for entering the required input.
+- Fetches live exchange rates via API for the conversion.
 
 ---
 
 ## Prerequisites
 
-- Java Development Kit (JDK) installed (Java 8 or higher).
-- An internet connection to fetch real-time data from the API.
-- An API key from **ExchangeRate-API**. You can get your free API key by signing up on [ExchangeRate-API](https://www.exchangerate-api.com/).
+- **Java Development Kit (JDK)** installed (Java 8 or higher).
+- An **API key** from [ExchangeRate-API](https://www.exchangerate-api.com/). You need to sign up for a free API key to use the service.
+- An active **internet connection** to fetch live exchange rates from the API.
 
 ---
 
-## Setup
+## Setup Instructions
 
-1. **Download or Clone the Project:**
+### 1. Clone or Download the Repository
 
-   - Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/currency-converter.git
+You can clone this repository using Git or download the ZIP file.
+
+- To clone the repository:
+  ```bash
+  git clone https://github.com/yourusername/currency-converter.git
