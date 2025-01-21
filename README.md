@@ -24,10 +24,7 @@ The goal of this repository is to share and demonstrate fundamental Java program
 ## How to Use
 
 1. **Clone or Download the Repository**:
-   - You can clone this repository to your local machine using the following command:
-     ```bash
-     git clone https://github.com/yourusername/basic-java-projects.git
-     ```
+   - You can clone this repository to your local machine.
 
    - Alternatively, you can download the repository as a ZIP file by clicking on the "Code" button and selecting "Download ZIP."
 
