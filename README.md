@@ -34,16 +34,3 @@ The goal of this repository is to share and demonstrate fundamental Java program
 3. **Compile and Run Projects**:
    - For each project, you can follow the instructions in the corresponding project folder to compile and run the Java programs.
 
-
-## How to Use
-
-1. **Clone or Download the Repository**:
-   - You can clone this repository to your local machine.
-
-   - Alternatively, you can download the repository as a ZIP file by clicking on the "Code" button and selecting "Download ZIP."
-
-2. **Navigate to Each Project Folder**:
-   - Inside the repository, you will find individual project folders. Each folder contains the necessary Java files, as well as a **README.md** with instructions specific to that project.
-
-3. **Compile and Run Projects**:
-   - For each project, you can follow the instructions in the corresponding project folder to compile and run the Java programs.
