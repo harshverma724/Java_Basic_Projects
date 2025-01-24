@@ -31,5 +31,3 @@ You can clone this repository using Git or download the ZIP file.
 
 
 
-## Setup Instructions
-
