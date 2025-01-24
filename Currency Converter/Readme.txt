@@ -30,3 +30,9 @@ A simple **Currency Converter** built in Java. This program allows users to conv
 You can clone this repository using Git or download the ZIP file.
 
 
+
+## Setup Instructions
+
+### 1. Clone or Download the Repository
+
+You can clone this repository using Git or download the ZIP file.
