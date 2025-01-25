@@ -20,7 +20,6 @@
 
 6.Loop:
 
-- The program uses a while(true) loop to continuously show the menu until the user chooses to exit.
 
 - The program uses a while(true) loop to continuously show the menu until the user chooses to exit.
 
