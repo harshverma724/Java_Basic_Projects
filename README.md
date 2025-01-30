@@ -35,9 +35,3 @@ The goal of this repository is to share and demonstrate fundamental Java program
    - For each project, you can follow the instructions in the corresponding project folder to compile and run the Java programs.
   
 
-
-
-
-
-
-     
